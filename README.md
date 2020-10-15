@@ -10,7 +10,7 @@ Hello hackers!
 The hackathon is organized by Anthem's Exponential Technologies team - we are dedicated to improving the health of humanity by democratizing healthcare, empowering everyone to take control of their health with equal access to affordable and convenient care.
 
 
-# Main Challenge
+**Main Challenge**
 # Personalized, digital medicine in the age of COVID and beyond
 
 ## Description: 
