@@ -1,5 +1,3 @@
-# main-challenge2020
-
 # HackGT 2020
 
 Hello hackers!
@@ -11,22 +9,30 @@ Website: antheminc.com
 
 # Main Challenge: Personalized, digital medicine in the age of COVID and beyond
 
-Description: The COVID pandemic has disrupted the traditional medical model, and this year for the first time ever, more than 50% of Americans have done medicine digitally. Anthem's mission is to accelerate this innovation by building higher quality, more affordable, and more convenient medicine, and we need your help. In this hackathon, we ask that you invent a solution that could be part of this disruptive trend.
+## Description: 
+The COVID pandemic has disrupted the traditional medical model, and this year for the first time ever, more than 50% of Americans have done medicine digitally. Anthem's mission is to accelerate this innovation by building higher quality, more affordable, and more convenient medicine, and we need your help. In this hackathon, we ask that you invent a solution that could be part of this disruptive trend.
 
-Possible use cases: Digital delivery of medicine - provide a solution to a medical or healthcare need using an app, sensors, website etc More efficient medical system - create a solution for better patient / doctor interaction, reduction of cost, and improve quality Medicine for COVID - create a solution that would address medical needs that were caused by COVID or made more severe by it Portable medicine - use a wearable or portable device to improve physical and mental well-being Other innovative ideas
+## Possible use cases: 
+* Medicine for COVID
+* Digital delivery of medicine
+* More efficient medical system
+* Portable, wearable and at-home medicine
+* Other innovative ideas
+
 
 ## Examples of Projects
-Taking a healthcare-related open source project (app, dataset) and creating an exciting enhancement
-Mining an unexplored healthcare dataset and making the data available to more people
-Making a novel use of a glucose monitor
-Developing an open source middleware solution that makes building solutions easier
-A technology to encourage people with mental health issues who are hesitant to ask for help, to check up on their wellbeing
+* An app to support people with a specific mental health diagnosis
+* An AI-powered medical advisor for COVID-19
+* New functionality in a healthcare-related open source project (app, dataset) 
+* An innovative app that simplifies buying medical insurance and medical bills
+* Making a novel use of a wearable sensor
+* Mining an unexplored healthcare dataset and making the data usable
+* Developing an open source middleware solution that makes building solutions easier
 
 We welcome both functional software solutions and an innovative mock-up of your solution. Our challenge is set to deepen the thinking of ‘What is next in digital medicine and health care delivery’. This industry is rapidly advancing and having a new generation of thinking can help shape how healthcare is delivered digitally.
 
 
 # Evaluation Criteria
-
 Concept: Innovation - 30%
 How innovative and unique is the idea behind the solution?
 
@@ -42,6 +48,15 @@ Is the solution functional and ready for users?
 
 Delivery: Final presentation - 10%
 Is the final presentation compelling?
+
+# Prizes
+Each member of the top 3 teams will receive
+1st place: Raspberry Pi 4 single-board computer and kits
+2nd place: Lenovo 10'' Smart Display 
+3rd place: Cheerwing Quadcopter Drone
+
+The top team will have a private meeting with Anthem's VP and engineering team
+
 
 ## Mini-Challenge
 Decoding the SNOMED
