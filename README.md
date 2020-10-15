@@ -74,7 +74,7 @@ In healthcare, it is a common practice to encode diagnosis and procedures into c
 
 Electronic health records (EHR) are often encoded in SNOMED terminologies and these need to be mapped to ICD-10 codes. In this mini-challenge, you will compete to build a tool that will perform the conversion by understanding medical rules. Your code could be used to unlock datasets encoded with SNOMED and enable powerful new AI trained on SNOWMED data.
 
-Source code & materials for the mini-challenge will be posted here: https://github.com/anthem-hackathon/HackGT2020/mini
+Source code & materials for the mini-challenge will be posted here: https://github.com/anthem-hackathon/HackGT2020/tree/main/mini
 
 Questions: hackathon@anthem.com
 
