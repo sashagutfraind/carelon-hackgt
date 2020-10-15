@@ -37,20 +37,20 @@ We welcome both functional software solutions and an innovative mock-up of your 
 
 
 # Evaluation Criteria
-Concept: Innovation - 30%
+Innovation - 30% <br/>
 How innovative and unique is the idea behind the solution?
 
-Concept:Viability - 30%
+Viability - 30%<br/>
 Is the idea viable in the marketplace, and could create user value and has a revenue model?
 
-Design: Engineering quality - 20%
+Engineering quality - 20%<br/>
 Does the implementation use the best architecture, technology and data?
 Does it consider the principles of human-centered design and social determinants of health?
 
-Delivery: MVP readiness - 10%
+MVP readiness - 10%<br/>
 Is the solution functional and ready for users?
 
-Delivery: Final presentation - 10%
+Final presentation - 10%<br/>
 Is the final presentation compelling?
 
 # Prizes
