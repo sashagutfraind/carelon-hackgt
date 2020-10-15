@@ -63,6 +63,7 @@ Each member of the top 3 teams will receive
 
 The top team will have a private meeting with Anthem's VP and engineering team
 
+[![Prizes](prizes.jpg "Prizes")](prizes.jpg)
 
 ## Mini-Challenge
 Decoding the SNOMED
