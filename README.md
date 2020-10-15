@@ -2,12 +2,15 @@
 
 Hello hackers!
 
-Anthem Inc. is a member of the S&P500 index, is a leading health benefits company dedicated to improving lives and communities, and making healthcare simpler. Through its affiliated companies, Anthem serves more than 106 million people, including 42 million within its family of health plans. We aim to be the most innovative, valuable and inclusive partner.
-
-Website: antheminc.com
 <img src="https://www.antheminc.com/cs/fragments/wp-global-css/images/wp_logo.gif"
      alt="Anthem Inc"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 10px;"
+     href="antheminc.com"/>
+
+[Anthem](antheminc.com), an S&P500 company, is a leading health benefits company dedicated to improving lives and communities, and making healthcare simpler. Through its affiliated companies, Anthem serves more than 106 million people, including 42 million within its family of health plans. We aim to be the most innovative, valuable and inclusive partner.
+
+The hackathon is organized by Anthem's Exponential Technologies team - we are dedicated to improving the health of humanity by democratizing healthcare, empowering everyone to take control of their health with equal access to affordable and convenient care.
+
 
 # Main Challenge: Personalized, digital medicine in the age of COVID and beyond
 
