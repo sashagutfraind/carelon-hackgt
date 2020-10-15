@@ -1,5 +1,3 @@
-# HackGT 2020
-
 Hello hackers!
 
 <img src="https://www.antheminc.com/cs/fragments/wp-global-css/images/wp_logo.gif"
@@ -12,7 +10,8 @@ Hello hackers!
 The hackathon is organized by Anthem's Exponential Technologies team - we are dedicated to improving the health of humanity by democratizing healthcare, empowering everyone to take control of their health with equal access to affordable and convenient care.
 
 
-# Main Challenge: Personalized, digital medicine in the age of COVID and beyond
+# Main Challenge
+# Personalized, digital medicine in the age of COVID and beyond
 
 ## Description: 
 The COVID pandemic has disrupted the traditional medical model, and this year for the first time ever, more than 50% of Americans have done medicine digitally. Anthem's mission is to accelerate this innovation by building higher quality, more affordable, and more convenient medicine, and we need your help. In this hackathon, we ask that you invent a solution that could be part of this disruptive trend.
