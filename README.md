@@ -1,13 +1,13 @@
 Hello hackers!
 
-<img src="https://www.antheminc.com/cs/fragments/wp-global-css/images/wp_logo.gif"
-     alt="Anthem Inc"
+<img src="https://www.carelon.com/content/dam/digital/logos/carelon/clon-digital-platforms-color-logo-1.svg"
+     alt="Carelon Digital Platforms"
      style="float: left; margin-right: 10px;"
-     href="antheminc.com"/>
+     href="carelon.com"/>
 
-[Anthem](antheminc.com), an S&P500 company, is a leading health benefits company dedicated to improving lives and communities, and making healthcare simpler. Through its affiliated companies, Anthem serves more than 106 million people, including 42 million within its family of health plans. We aim to be the most innovative, valuable and inclusive partner.
+[Carelon](carelon.com), a subsidiary of the S&P500 company [Elevance Health Inc](https://www.elevancehealth.com/), is a leading health technology company dedicated to improving lives and communities, and making healthcare simpler. We serve more than 106 million people, including 47 million within its family of health plans. 
 
-The hackathon is organized by Anthem's Exponential Technologies team - we are dedicated to improving the health of humanity by democratizing healthcare, empowering everyone to take control of their health with equal access to affordable and convenient care.
+The hackathon is organized by Carelon's Digital Platfroms team - we are dedicated to improving the health of humanity by democratizing healthcare, empowering everyone to take control of their health with equal access to affordable and convenient care.
 
 
 **Main Challenge**
@@ -37,44 +37,23 @@ We welcome both functional software solutions and an innovative mock-up of your 
 
 
 # Evaluation Criteria
-Innovation - 30% <br/>
-How innovative and unique is the idea behind the solution?
+Innovation - 33% <br/>
+How innovative and unique is the idea behind the solution?  Is it viable? Is it based on user needs?
 
-Viability - 30%<br/>
-Is the idea viable in the marketplace, and could create user value and has a revenue model?
+Engineering - 30%<br/>
+Does the implementation use the right technology and data for the project? Does it consider the principles of human-centered design?
 
-Engineering quality - 20%<br/>
-Does the implementation use the best architecture, technology and data?
-Does it consider the principles of human-centered design and social determinants of health?
+Final presentation 33%<br/>
+Is there a functional MVP, clear and compelling presentation? 
 
-MVP readiness - 10%<br/>
-Is the solution functional and ready for users?
+Members of winning teams will be considered for interview for internships and positions at our organization.
 
-Final presentation - 10%<br/>
-Is the final presentation compelling?
-
-# Prizes
-Each member of the top 3 teams will receive
-1st place: Raspberry Pi 4 single-board computer and kits
-
-2nd place: Lenovo 10'' Smart Display 
-
-3rd place: Cheerwing Quadcopter Drone
-
-The top team will have a private meeting with Anthem's VP and engineering team
+# Prizes - to be announced
 
 [![Prizes](prizes.jpg "Prizes")](prizes.jpg)
 
-## Mini-Challenge
-Decoding the SNOMED
-In healthcare, it is a common practice to encode diagnosis and procedures into certain codes for the ease of claims and billing purpose. Not only these encoding schemes help practitioners to clearly identify attributes of the diagnosis, but also to insurance companies to process the claims more accurately. Below are some of the most common encoding schemes:
 
-1. SNOMED-CT: Systematized Nomenclature of Medicine -- Clinical Terms
-2. ICD-10: International Classification of Diseases 10th revision
+Questions: [hackathon@anthem.com]
 
-Electronic health records (EHR) are often encoded in SNOMED terminologies and these need to be mapped to ICD-10 codes. In this mini-challenge, you will compete to build a tool that will perform the conversion by understanding medical rules. Your code could be used to unlock datasets encoded with SNOMED and enable powerful new AI trained on SNOWMED data.
-
-Source code & materials for the mini-challenge will be posted here: https://github.com/anthem-hackathon/HackGT2020/tree/main/mini
-
-Questions: hackathon@anthem.com
+Careeers with us: [https://careers.elevancehealth.com/]
 
