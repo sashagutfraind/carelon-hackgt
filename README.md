@@ -47,10 +47,5 @@ Members of winning teams will be considered for interview for internships and po
 
 # Prizes - to be announced
 
-[![Prizes](prizes.jpg "Prizes")](prizes.jpg)
-
-
-Questions: [hackathon@anthem.com]
-
-Careeers with us: [https://careers.elevancehealth.com/]
+Careeers with us: https://careers.elevancehealth.com/
 
