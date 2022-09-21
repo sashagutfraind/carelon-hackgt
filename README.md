@@ -37,7 +37,7 @@ We welcome both functional software solutions and an innovative mock-up of your 
 Innovation - 33% <br/>
 How innovative and unique is the idea behind the solution?  Is it viable? Is it based on user needs?
 
-Engineering - 30%<br/>
+Engineering - 33%<br/>
 Does the implementation use the right technology and data for the project? Does it consider the principles of human-centered design?
 
 Final presentation 33%<br/>
