@@ -5,24 +5,21 @@ Hello hackers!
      style="float: left; margin-right: 10px;"
      href="carelon.com"/>
 
-[Carelon](carelon.com), a subsidiary of the S&P500 company [Elevance Health Inc](https://www.elevancehealth.com/), is a leading health technology company dedicated to improving lives and communities, and making healthcare simpler. We serve more than 106 million people, including 47 million within its family of health plans. 
-
-The hackathon is organized by Carelon's Digital Platfroms team - we are dedicated to improving the health of humanity by democratizing healthcare, empowering everyone to take control of their health with equal access to affordable and convenient care.
-
+[Carelon](carelon.com), a subsidiary of the S&P500 company [Elevance Health Inc](https://www.elevancehealth.com/), is a leading health technology company. Our digital platforms serve more than 47 million people right now.
 
 **Main Challenge**
 # Personalized, digital medicine in the age of COVID and beyond
 
 ## Description: 
-The COVID pandemic has disrupted the traditional medical model, and this year for the first time ever, more than 50% of Americans have done medicine digitally. Anthem's mission is to accelerate this innovation by building higher quality, more affordable, and more convenient medicine, and we need your help. In this hackathon, we ask that you invent a solution that could be part of this disruptive trend.
+Healthcare is a $4 trillion industry being disrupted by technology.
+More than 50% of Americans have now used digital medicine, but the potential of digital solutions, AI and mobile health is just starting to impact.
+In this hackathon, we ask that you invent a solution that could be part of this disruptive trend.
 
-## Possible use cases: 
-* Medicine for COVID
-* Digital delivery of medicine
-* More efficient medical system
-* Portable, wearable and at-home medicine
-* Other innovative ideas
-
+We are looking for innovative hacks that:
+* Replace traditional medicine with higher-quality digital medicine
+* Advance the person's Whole Health - livestyle, mind and body
+* Help digital non-natives, elderly, immigrants or persons with special needs or conditions
+* Middleware or platforms that support other solutions and help integrate
 
 ## Examples of Projects
 * An app to support people with a specific mental health diagnosis
